@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的個人網頁</title>
+</head>
+<body>
+    <h1>歡迎來到我的個人網頁</h1>
+    <p>這是一個基本的 HTML 頁面，你可以在這裡添加更多的內容。</p>
+    <p>學習 HTML 和 CSS 是創建網站的基礎。</p>
+</body>
+</html>
