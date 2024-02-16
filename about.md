@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "關於我"
+permalink: /about/
 ---
 
 *這是用 markdown 寫的關於我*
