@@ -1,10 +1,10 @@
 ---
 layout: default
-title: HOME 家
+title: Home
 ---
 
-# 歡迎來到 CH 的網站
+# This is Home of Chenhao Chiu
 
-這是我的個人 GitHub Pages 網站。
+Welcome to Chenhao's GitHub Pages!
 
 [關於我](/about/)
