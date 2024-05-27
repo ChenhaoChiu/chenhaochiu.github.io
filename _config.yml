@@ -1,3 +1,7 @@
 theme: jekyll-theme-dinky
 title: Chenhao Chiu
-description: 
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
