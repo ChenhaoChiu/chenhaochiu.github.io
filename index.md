@@ -7,4 +7,4 @@ title: Home
 
 Welcome to Chenhao's GitHub Pages!
 
-[About me](/about/)
+[About](/about/)
