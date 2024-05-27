@@ -1,8 +1,11 @@
 ---
 layout: page
-title: "關於我"
+title: "About me"
 permalink: /about/
 ---
 
-*這是用 markdown 寫的關於我*
-不過我有點忘記 markdown 的語法了。
+*About me*
+
+-- Associate Professor, Graduate Institute of Linguistics @ National Taiwan University
+-- Articulatory phonetics; speech production and behaviours
+-- Ph.D. in Linguistics (University of British Columbia)
