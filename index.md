@@ -8,3 +8,4 @@ title: Home
 Welcome to Chenhao's GitHub Pages!
 
 [About](/about/)
+[Publications](/pub/)
