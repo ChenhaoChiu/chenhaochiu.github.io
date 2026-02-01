@@ -8,7 +8,15 @@ Here are my publications:
 
 _Journal papers_
 
-Lai, C.-H. and Chiu, C. (submitted). Effects of individual’s aptitude on ultrasound biofeed- back in non-native vowel production. Journal of Phonetics.
+Lai, C.-H., Tan, C.-C., Hung, D. S.-Y., Chiu, C., Hsieh, M. H.-C., Chang, C.-C., and Tsai, S.-W. (submitted). The impact of tongue fatigue on speech production: sentence duration remains stable, but segmental durations and moments vary in healthy Mandarin learnersof English. Journal of Speech, Language, and Hearing Research.
+
+Huang, P.-H. and Chiu, C. (submitted). Production and perception of coarticulated tones: The cases of Taiwan Mandarin and Taiwan Southern Min. Phonetica.
+
+Lai, C.-H., Chiu, C., Tsai, S.-W., Hung, D. S.-Y., Hsieh, M. H.-C., Lee, I.-P., and Tsai, T. (2025). An acoustic analysis of the nasal electrolarynx in healthy participants. Speech Communication, 175, 103315. DOI: https://doi.org/10.1016/j.specom.2025.103315. SCIE; Scopus
+
+Chiu, C., Lu, Y.-A., Lin, K.-H., and Jin, S.-J. (2025). Prosody-modulated and vowel-dependent nasal merger in Taiwan Mandarin. Journal of the Acoustical Society of America, 157 (2), 1523 - 1541. DOI: https://doi.org/10.1121/10.0035943 SSCI; A&HCI
+
+Lai, C.-H. and Chiu, C. (2025). Effects of individual aptitude on ultrasound biofeedback in non-native vowel production. Journal of Phonetics, 108, 101390. DOI: https://doi.org/10.1016/j.wocn.2025.101390. SSCI
 
 Chiu, C., Weng, Y., and Chen, B.-W. (2022). Tongue postures and tongue centers: A study of acoustic-articulatory correspondences across different head angles. Frontiers in Psychology: Language Sciences, 12, 768754. DOI: https://doi.org/10.3389/fpsyg .2021.768754 SSCI
 
