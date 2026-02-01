@@ -38,6 +38,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chenhaochiu"
 
+fontawesome: true
 
 minimal_mistakes_skin: default
 include:
