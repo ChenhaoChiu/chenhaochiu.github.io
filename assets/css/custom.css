@@ -1,0 +1,14 @@
+/* Add comfortable padding on small screens (Academic Pages / Minimal Mistakes) */
+@media (max-width: 768px) {
+  .page__content,
+  .page {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
+  /* Optional: keep big titles from touching edges */
+  .page__title {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
