@@ -1,15 +1,8 @@
 ---
-layout: page
-title: About Me
+layout: single
+title: "About"
 permalink: /about/
----
-
-<p align="center">
-  <a href="/">[ Home ]</a> &nbsp;&nbsp; 
-  <strong>[ About me ]</strong> &nbsp;&nbsp; 
-  <a href="/pub/">[ Publications ]</a>
-</p>
-
+author_profile: true
 ---
 
 # About Me
