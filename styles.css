@@ -21,17 +21,3 @@
 .grey-text {
     color: grey;
 }
-
-
-/* 針對 Dinky 主題的內容區塊調整 */
-#content-wrapper .inner {
-    max-width: 900px;      /* 增加最大寬度 */
-    margin: 0 auto;        /* 居中 */
-    padding: 50px 80px;    /* 增加內邊距 (Padding) */
-}
-
-/* 增加段落與文字的間距，讓排版不擁擠 */
-p, li {
-    line-height: 1.8;
-    margin-bottom: 1.5em;
-}
