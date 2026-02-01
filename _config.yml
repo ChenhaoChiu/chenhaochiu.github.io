@@ -7,3 +7,8 @@ navigation:
     url: "/about/"
   - title: "Publications"
     url: "/pub/"
+
+
+# 確保自定義 CSS 被讀取
+# 部分主題使用以下方式連結自定義樣式
+css: /styles.css
