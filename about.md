@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 <p align="center">
-  <a href="/">[ 首頁 Home ]</a> &nbsp;&nbsp; 
-  <strong>[ 關於我 About ]</strong> &nbsp;&nbsp; 
-  <a href="/pub/">[ 研究著作 Publications ]</a>
+  <a href="/">[ Home ]</a> &nbsp;&nbsp; 
+  <strong>[ About me ]</strong> &nbsp;&nbsp; 
+  <a href="/pub/">[ Publications ]</a>
 </p>
 
 ---
@@ -16,7 +16,7 @@ permalink: /about/
 
 <img src="/assets/images/Profile_CHIU2.png" align="right" width="200px" style="margin-left: 20px; border-radius: 10px;" onerror="this.style.display='none'">
 
-I am a researcher specializing in **Speech Science and Articulatory Phonetics**. My work primarily focuses on the motor control theories of speech and the development of methods for **quantifying articulatory structures** of the lips and tongue.
+I am a researcher specializing in *Speech Science and Articulatory Phonetics*. My work primarily focuses on the motor control theories of speech and the development of methods for quantifying articulatory structures of the lips and tongue.
 
 ### Research Interests
 * **Articulatory Phonology**: Investigating the coordination of speech gestures.
@@ -24,7 +24,8 @@ I am a researcher specializing in **Speech Science and Articulatory Phonetics**.
 * **Quantification Methods**: Developing precise measurements for tongue and lip movement.
 
 ### Professional Background
-I have been deeply involved with the **Speech Behavior and Science Lab**, where I contributed to lab identity design and ongoing phonetic research. My recent projects include a presentation on articulatory quantification and exploring risk management in high-stakes phonetics experiments.
+I am currently an associate professor at the *Graduate Institute of Linguistics* (GIL), and the PI of the *Speech Behavior and Science Lab* (SBS) at National Taiwan University (NTU). I am also affiliated with the *Graduate Institute of Brain and Mind Sciences* and *Neurobiology and Cognitive Science Center* (NCSC) at NTU. 
+My recent projects include a presentation on articulatory quantification and exploring risk management in high-stakes phonetics experiments.
 
 ---
 
