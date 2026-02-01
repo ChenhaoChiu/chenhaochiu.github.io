@@ -1,24 +1,28 @@
-<style>
-  /* 強制針對這個頁面增加邊距 */
-  #content-wrapper {
-    padding: 60px !important; /* !important 確保覆蓋主題預設值 */
-    max-width: 1000px !important;
-    margin: 250px !important;
-  }
-  
-  /* 如果是手機瀏覽，邊距縮小一點 */
-  @media (max-width: 600px) {
-    #content-wrapper {
-      padding: 20px !important;
-    }
-  }
-</style>
 
 ---
 layout: page
 title: About Me
 permalink: /about/
 ---
+
+<style>
+  /* 這是修正後的 Dinky 主題專用選擇器 */
+  .wrapper {
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    padding: 60px 80px !important;
+  }
+  
+  /* 針對主要內容區域 */
+  section {
+    padding: 40px 0 !important;
+  }
+
+  @media (max-width: 600px) {
+    .wrapper { padding: 20px !important; }
+  }
+</style>
+
 
 <p align="center">
   <a href="/">[ Home ]</a> &nbsp;&nbsp; 
