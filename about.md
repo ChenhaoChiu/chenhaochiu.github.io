@@ -1,3 +1,19 @@
+<style>
+  /* 強制針對這個頁面增加邊距 */
+  #content-wrapper {
+    padding: 60px !important; /* !important 確保覆蓋主題預設值 */
+    max-width: 1000px !important;
+    margin: 250px !important;
+  }
+  
+  /* 如果是手機瀏覽，邊距縮小一點 */
+  @media (max-width: 600px) {
+    #content-wrapper {
+      padding: 20px !important;
+    }
+  }
+</style>
+
 ---
 layout: page
 title: About Me
@@ -35,18 +51,4 @@ I am currently an associate professor at the [Graduate Institute of Linguistics]
 </p>
 
 
-<style>
-  /* 強制針對這個頁面增加邊距 */
-  #content-wrapper {
-    padding: 60px !important; /* !important 確保覆蓋主題預設值 */
-    max-width: 1000px !important;
-    margin: 250px !important;
-  }
-  
-  /* 如果是手機瀏覽，邊距縮小一點 */
-  @media (max-width: 600px) {
-    #content-wrapper {
-      padding: 20px !important;
-    }
-  }
-</style>
+
