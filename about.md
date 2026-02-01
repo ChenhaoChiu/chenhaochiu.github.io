@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "About"
+title: "About me"
 permalink: /about/
 author_profile: true
 ---
-
-# About Me
 
 <img src="/assets/images/Profile_CHIU2.png" align="right" width="200px" style="margin-left: 20px; border-radius: 10px;" onerror="this.style.display='none'">
 
