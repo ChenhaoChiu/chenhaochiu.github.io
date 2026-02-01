@@ -7,8 +7,3 @@ navigation:
     url: "/about/"
   - title: "Publications"
     url: "/pub/"
-
-header_pages:
-  - index.md
-  - about.md
-  - portfolio.md
