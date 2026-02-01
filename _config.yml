@@ -27,8 +27,8 @@ navigation:
     url: /pub/
 
 # Author (shows in sidebar)
-author: Author
-  name: Name
+author: 
+  name: Chenhao Chiu
   avatar: /assets/images/Profile_CHIU2.png
   bio: "Researcher in Speech Science and Articulatory Phonetics."
   location: ""
