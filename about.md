@@ -24,8 +24,8 @@ I am a researcher specializing in *Speech Science and Articulatory Phonetics*. M
 * **Quantification Methods**: Developing precise measurements for tongue and lip movement.
 
 ### Professional Background
-I am currently an associate professor at the *Graduate Institute of Linguistics* (GIL), and the PI of the *Speech Behavior and Science Lab* (SBS) at National Taiwan University (NTU). I am also affiliated with the *Graduate Institute of Brain and Mind Sciences* and *Neurobiology and Cognitive Science Center* (NCSC) at NTU. 
-My recent projects include a presentation on articulatory quantification and exploring risk management in high-stakes phonetics experiments.
+I am currently an associate professor at the [Graduate Institute of Linguistics] (https://linguistics.ntu.edu.tw/) (GIL), and the PI of the [Speech Behavior and Science Lab] (https://sbslab.linguistics.ntu.edu.tw/) (SBS) at [National Taiwan University] (https://www.ntu.edu.tw/) (NTU). I am also affiliated with the *Graduate Institute of Brain and Mind Sciences* and *Neurobiology and Cognitive Science Center* (NCSC) at NTU. 
+
 
 ---
 
