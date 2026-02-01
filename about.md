@@ -5,20 +5,18 @@ permalink: /about/
 ---
 
 <style>
-  /* 這是修正後的 Dinky 主題專用選擇器 */
+  /* 修正 Dinky 主題的邊距 */
   .wrapper {
     max-width: 900px !important;
     margin: 0 auto !important;
     padding: 60px 80px !important;
   }
   
-  /* 針對主要內容區域 */
-  section {
-    padding: 40px 0 !important;
-  }
-
+  /* 讓手機版顯示正常 */
   @media (max-width: 600px) {
-    .wrapper { padding: 20px !important; }
+    .wrapper {
+      padding: 20px !important;
+    }
   }
 </style>
 
