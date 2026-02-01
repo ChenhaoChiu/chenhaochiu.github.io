@@ -1,27 +1,15 @@
-/* ===== Academic-friendly layout for jekyll-theme-dinky ===== */
-
-/* Main content width */
+/* Academic-friendly width for dinky */
 .wrapper {
   max-width: 1200px;
   padding: 0 2.5rem;
 }
 
-/* Large screens */
 @media screen and (min-width: 1400px) {
   .wrapper {
     max-width: 1400px;
   }
 }
 
-/* Improve readability */
-section {
-  line-height: 1.6;
-}
-
-/* Tables & images */
-table {
-  width: 100%;
-}
 
 img {
   max-width: 100%;
