@@ -27,8 +27,8 @@ navigation:
     url: /pub/
 
 # Author (shows in sidebar)
-author:
-  name: 
+author: "Author"
+  name: "Name"
   avatar: /assets/images/Profile_CHIU2.png
   bio: "Researcher in Speech Science and Articulatory Phonetics."
   location: ""
