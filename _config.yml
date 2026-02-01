@@ -1,9 +1,39 @@
-theme: jekyll-theme-dinky
+# --- Academic Pages minimal config ---
+
+# IMPORTANT: use remote_theme, not theme
+remote_theme: academicpages/academicpages.github.io
+
 title: Chenhao Chiu
+description: Speech Science & Articulatory Phonetics
+
+# Site settings
+locale: en-US
+markdown: kramdown
+permalink: /:categories/:title/
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation (Academic Pages uses this via Minimal Mistakes)
 navigation:
   - title: "Home"
-    url: "/"
+    url: /
   - title: "About"
-    url: "/about/"
+    url: /about/
   - title: "Publications"
-    url: "/pub/"
+    url: /pub/
+
+# Author (shows in sidebar)
+author:
+  name: Chenhao Chiu
+  avatar: /assets/images/Profile_CHIU2.png
+  bio: "Researcher in Speech Science and Articulatory Phonetics."
+  location: ""
+  email: ""
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chenhaochiu"
