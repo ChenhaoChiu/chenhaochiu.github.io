@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I’m **Chenhao Chiu**, a researcher specializing in **Speech Science** and **Articulatory Phonetics**.
+Hi! I’m Chenhao Chiu, a researcher specializing in Speech Science and Articulatory Phonetics.
 
 ## Research interests
 - Articulatory phonology & coordination of speech gestures  
