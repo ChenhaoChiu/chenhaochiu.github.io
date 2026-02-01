@@ -34,11 +34,7 @@ author:
   email: "chenhaochiu@ntu.edu.tw"
   avatar: /assets/images/Profile_CHIU2.png
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:chenhaochiu@ntu.edu.tw"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
       url: "https://github.com/chenhaochiu"
 
 
