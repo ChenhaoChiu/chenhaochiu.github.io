@@ -1,13 +1,17 @@
 ---
 layout: home
-title: "Home"
+title: ""
 author_profile: true
+classes: wide
 ---
 
-# This is Home of Chenhao Chiu
+Hi! I’m **Chenhao Chiu**, a researcher specializing in **Speech Science** and **Articulatory Phonetics**.
 
-Welcome to Chenhao's GitHub Pages!
+## Research interests
+- Articulatory phonology & coordination of speech gestures  
+- Motor control models of speech production  
+- Quantitative methods for lip/tongue kinematics  
 
-[About](/about/)
-
-[Publications](/pub/)
+## Quick links
+- [About](/about/)
+- [Publications](/pub/)
