@@ -4,7 +4,7 @@ title: "About me"
 permalink: /about/
 ---
 
-*About me*
+*About me2*
 
 <img src="/assets/images/Profile_CHIU2.png" align="right" width="200px" style="margin-left: 20px;">
 
