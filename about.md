@@ -40,7 +40,7 @@ I am currently an associate professor at the [Graduate Institute of Linguistics]
   #content-wrapper {
     padding: 60px !important; /* !important 確保覆蓋主題預設值 */
     max-width: 1000px !important;
-    margin: 0 auto !important;
+    margin: 250px !important;
   }
   
   /* 如果是手機瀏覽，邊距縮小一點 */
