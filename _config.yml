@@ -27,16 +27,20 @@ navigation:
     url: /pub/
 
 # Author (shows in sidebar)
-author: 
+author:
   name: Chenhao Chiu
-  avatar: /assets/images/Profile_CHIU2.png
   bio: "Researcher in Speech Science and Articulatory Phonetics."
   location: ""
   email: "chenhaochiu@ntu.edu.tw"
+  avatar: /assets/images/Profile_CHIU2.png
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:chenhaochiu@ntu.edu.tw"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chenhaochiu"
+
 
 fontawesome: true
 
