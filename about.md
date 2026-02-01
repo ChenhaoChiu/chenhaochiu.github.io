@@ -33,3 +33,20 @@ I am currently an associate professor at the [Graduate Institute of Linguistics]
 <p align="center">
   想要了解更多？歡迎查看我的 <a href="/pub/">研究著作 (Publications)</a> 或回到 <a href="/">首頁</a>。
 </p>
+
+
+<style>
+  /* 強制針對這個頁面增加邊距 */
+  #content-wrapper {
+    padding: 60px !important; /* !important 確保覆蓋主題預設值 */
+    max-width: 1000px !important;
+    margin: 0 auto !important;
+  }
+  
+  /* 如果是手機瀏覽，邊距縮小一點 */
+  @media (max-width: 600px) {
+    #content-wrapper {
+      padding: 20px !important;
+    }
+  }
+</style>
