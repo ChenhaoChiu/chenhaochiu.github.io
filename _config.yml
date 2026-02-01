@@ -27,14 +27,14 @@ navigation:
     url: /pub/
 
 # Author (shows in sidebar)
-author:
-  name: Chenhao
-  bio: "Researcher in Speech Science and Articulatory Phonetics."
-  location: ""
-  email: "chenhaochiu@ntu.edu.tw"
-  links:
-    - label: "GitHub"
-      url: "https://github.com/chenhaochiu"
+#author:
+#  name: Chenhao
+#  bio: "Researcher in Speech Science and Articulatory Phonetics."
+#  location: ""
+#  email: "chenhaochiu@ntu.edu.tw"
+#  links:
+#    - label: "GitHub"
+#      url: "https://github.com/chenhaochiu"
 
 
 fontawesome: true
