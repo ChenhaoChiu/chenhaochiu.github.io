@@ -4,22 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-<style>
-  /* 修正 Dinky 主題的邊距 */
-  .wrapper {
-    max-width: 900px !important;
-    margin: 0 auto !important;
-    padding: 60px 80px !important;
-  }
-  
-  /* 讓手機版顯示正常 */
-  @media (max-width: 600px) {
-    .wrapper {
-      padding: 20px !important;
-    }
-  }
-</style>
-
 <p align="center">
   <a href="/">[ Home ]</a> &nbsp;&nbsp; 
   <strong>[ About me ]</strong> &nbsp;&nbsp; 
