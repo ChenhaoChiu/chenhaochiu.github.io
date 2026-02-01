@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: About Me
@@ -22,7 +21,6 @@ permalink: /about/
     .wrapper { padding: 20px !important; }
   }
 </style>
-
 
 <p align="center">
   <a href="/">[ Home ]</a> &nbsp;&nbsp; 
