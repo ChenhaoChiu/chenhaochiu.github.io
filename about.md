@@ -6,8 +6,7 @@ permalink: /about/
 
 *About me*
 
--- Associate Professor, Graduate Institute of Linguistics @ National Taiwan University
+<img src="/assets/images/Profile_CHIU2.png" align="right" width="200px" style="margin-left: 20px;">
 
--- Articulatory phonetics; speech production and behaviours
-
--- Ph.D. in Linguistics (University of British Columbia)
+## About Me
+I am a researcher specializing in Speech Science and Articulatory Phonetics. My work focuses on the motor control theories of speech and quantifying articulatory structures.
