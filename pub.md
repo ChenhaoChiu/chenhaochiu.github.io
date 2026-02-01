@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Publications
+layout: single
+title: "Publications"
 permalink: /pub/
+author_profile: true
 ---
 
 Here are my publications:
