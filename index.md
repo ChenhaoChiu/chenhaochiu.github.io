@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Home
+layout: home
+title: "Home"
+author_profile: true
 ---
 
 # This is Home of Chenhao Chiu
