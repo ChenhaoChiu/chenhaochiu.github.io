@@ -29,11 +29,9 @@ navigation:
     url: /pub/
 
 # Author (shows in sidebar)
-avatar: "/assets/images/Profile_CHIU2.png"
 
 author:
   name: 邱振豪
-  avatar: "/assets/images/Profile_CHIU2.png"
   bio: "Speech Behavior and Science Lab, NTU"
   email: "chenhaochiu@ntu.edu.tw"
   links:
@@ -43,6 +41,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chenhaochiu"
+
 
 
 
