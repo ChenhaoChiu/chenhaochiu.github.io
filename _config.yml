@@ -16,6 +16,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-include-cache
+
 
 # Navigation (Academic Pages uses this via Minimal Mistakes)
 navigation:
@@ -31,11 +33,15 @@ author:
   name: 邱振豪
   avatar: "/assets/images/Profile_CHIU2.png"
   bio: "Researcher in Speech Science and Articulatory Phonetics."
-  location: ""
   email: "chenhaochiu@ntu.edu.tw"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:chenhaochiu@ntu.edu.tw"
     - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/chenhaochiu"
+
 
 
 fontawesome: true
