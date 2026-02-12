@@ -1,1 +1,20 @@
-a { color: red !important; }
+/* Increase spacing between the left sidebar and the main content (Academic Pages / Minimal Mistakes) */
+@media (min-width: 901px) {
+  /* sidebar column */
+  .sidebar.sticky {
+    margin-right: 2.5rem !important;
+  }
+
+  /* content column */
+  .page__inner-wrap {
+    padding-left: 1.5rem !important;
+  }
+}
+
+/* Mobile: keep comfortable padding so text doesn't touch edges */
+@media (max-width: 900px) {
+  .page__inner-wrap {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+}
