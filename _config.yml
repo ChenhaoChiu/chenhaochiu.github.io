@@ -29,6 +29,8 @@ navigation:
     url: /pub/
 
 # Author (shows in sidebar)
+avatar: "/assets/images/Profile_CHIU2.png"
+
 author:
   name: 邱振豪
   avatar: "/assets/images/Profile_CHIU2.png"
