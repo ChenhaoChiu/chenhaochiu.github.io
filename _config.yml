@@ -3,7 +3,7 @@
 # IMPORTANT: use remote_theme, not theme
 remote_theme: academicpages/academicpages.github.io
 
-title: Chenhao Chiu 邱振豪
+title: Chenhao Chiu
 description: Speech Science & Articulatory Phonetics
 
 # Site settings
@@ -28,7 +28,8 @@ navigation:
 
 # Author (shows in sidebar)
 author:
-  name: Chenhao
+  name: 邱振豪
+  avatar: "/assets/images/Profile_CHIU2.png"
   bio: "Researcher in Speech Science and Articulatory Phonetics."
   location: ""
   email: "chenhaochiu@ntu.edu.tw"
