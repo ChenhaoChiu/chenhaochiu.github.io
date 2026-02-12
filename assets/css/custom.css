@@ -1,3 +1,14 @@
-/* TEST: if this loads, links will turn bright red */
-a { color: red !important; }
+/* Increase spacing between left sidebar and main content (Minimal Mistakes / Academic Pages) */
+@media (min-width: 901px) {
+  .sidebar {
+    padding-right: 2.5rem !important;
+  }
+  .page {
+    padding-left: 1.5rem !important;
+  }
+}
 
+/* If author name is rendered twice, hide the smaller duplicate line */
+.author__name + .author__name {
+  display: none !important;
+}
