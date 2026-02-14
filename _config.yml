@@ -4,7 +4,6 @@
 remote_theme: academicpages/academicpages.github.io
 
 title: Chenhao Chiu
-description: Speech Science & Articulatory Phonetics
 
 # Site settings
 locale: en-US
@@ -29,7 +28,7 @@ navigation:
     url: /pub/
 
 # Author (shows in sidebar)
-
+avatar: "/assets/images/Profile_CHIU2.png"
 author:
   name: 邱振豪
   bio: "Speech Behavior and Science Lab, NTU"
