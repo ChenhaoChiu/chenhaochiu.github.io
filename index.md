@@ -34,11 +34,8 @@ I am currently an associate professor at the [Graduate Institute of Linguistics]
   想要了解更多？歡迎查看我的 <a href="/pub/">研究著作 (Publications)</a> 或回到 <a href="/">首頁</a>。
 </p>
 
-## Research interests
-- Articulatory phonology & coordination of speech gestures  
-- Motor control models of speech production  
-- Quantitative methods for lip/tongue kinematics  
 
-## Quick links
-- [About](/about/)
+
+### 💡 Quick links
+- [Lab](/lab/)
 - [Publications](/pub/)
