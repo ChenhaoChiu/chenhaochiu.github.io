@@ -31,7 +31,8 @@ navigation:
 avatar: "/assets/images/Profile_CHIU2.png"
 author:
   name: 
-  bio: "Speech Behavior and Science Lab, NTU"
+  bio: "Graduate Institute of Linguistics"
+  bio: "National Taiwan University"
   email: "chenhaochiu@ntu.edu.tw"
   links:
     - label: "Email"
