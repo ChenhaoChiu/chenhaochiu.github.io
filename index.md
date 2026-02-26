@@ -37,5 +37,5 @@ I am currently an associate professor at the [Graduate Institute of Linguistics]
 
 
 ### 💡 Quick links
-- [Lab](/lab/)
+- [SBS Lab](/lab/)
 - [Publications](/pub/)
