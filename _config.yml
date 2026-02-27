@@ -18,14 +18,6 @@ plugins:
   - jekyll-include-cache
 
 
-# Navigation (Academic Pages uses this via Minimal Mistakes)
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Lab"
-    url: /lab/
-  - title: "Publications"
-    url: /pub/
 
 # Author (shows in sidebar)
 author:
