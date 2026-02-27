@@ -39,4 +39,4 @@ I am currently an associate professor at the [Graduate Institute of Linguistics]
 ### 💡 Quick links
 - [SBS Lab](/lab/)
 - [Publications](/pub/)
-- [CV] (https://www.dropbox.com/scl/fi/yrvwcsg4kbdkz7u/CV_CHIU.pdf?rlkey=07mmin3mvhve9s5bx2jyzq15v&dl=0)
+- [CV](https://www.dropbox.com/scl/fi/yrvwcsg4kbdkz7u/CV_CHIU.pdf?rlkey=07mmin3mvhve9s5bx2jyzq15v&dl=0)
