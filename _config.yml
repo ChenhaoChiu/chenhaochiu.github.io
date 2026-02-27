@@ -21,8 +21,6 @@ plugins:
 
 # Author (shows in sidebar)
 author:
-  name: 邱振豪
-  avatar: "/assets/images/Profile_CHIU2.png"
   bio: "Speech Behavior and Science Lab (NTU)"
   email: "chenhaochiu@ntu.edu.tw"
   links:
