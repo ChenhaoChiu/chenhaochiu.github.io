@@ -22,8 +22,8 @@ plugins:
 navigation:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
+  - title: "Lab"
+    url: /lab/
   - title: "Publications"
     url: /pub/
 
