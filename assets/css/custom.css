@@ -15,7 +15,7 @@
 
 
 /* Mobile: keep comfortable padding so text doesn't touch edges */
-@media (max-width: 1200px) {
+@media (max-width: 2000px) {
   .page__inner-wrap {
     padding-left: 1rem !important;
     padding-right: 1rem !important;
