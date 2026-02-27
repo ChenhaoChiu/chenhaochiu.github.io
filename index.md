@@ -31,7 +31,7 @@ I am currently an associate professor at the [Graduate Institute of Linguistics]
 
 ### 💡 Navigation
 <p align="center">
-  想要了解更多？歡迎查看我的 <a href="/pub/">研究著作 (Publications)</a> 或回到 <a href="/">首頁</a>。
+  想要了解更多？歡迎查看我的 <a href="/pub/">研究著作 (Publications)</a> 或回到 <a href="/">首頁 (home)</a>。
 </p>
 
 
