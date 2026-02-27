@@ -12,13 +12,10 @@
   padding-right: 2.5rem !important;
 }
 
-  /* 讓主內容佔滿寬度 */
-.page {
-  width: 100% !important;
-}
+
 
 /* Mobile: keep comfortable padding so text doesn't touch edges */
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
   .page__inner-wrap {
     padding-left: 1rem !important;
     padding-right: 1rem !important;
