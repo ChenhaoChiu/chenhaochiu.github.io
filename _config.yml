@@ -28,9 +28,8 @@ navigation:
     url: /pub/
 
 # Author (shows in sidebar)
-avatar: "/assets/images/Profile_CHIU2.png"
 author:
-  name: 
+  name: 邱振豪
   bio: "Graduate Institute of Linguistics"
   bio: "National Taiwan University"
   email: "chenhaochiu@ntu.edu.tw"
