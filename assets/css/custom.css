@@ -14,7 +14,7 @@
 
   /* 讓主內容佔滿寬度 */
 .page {
-  width: 60% !important;
+  width: 100% !important;
 }
 
 /* Mobile: keep comfortable padding so text doesn't touch edges */
