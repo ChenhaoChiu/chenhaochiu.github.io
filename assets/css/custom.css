@@ -5,11 +5,17 @@
     margin-right: 2.5rem !important;
   }
 
-  /* content column */
-  .page__inner-wrap {
-    padding-left: 4.5rem !important;
-  }
+ /* 讓主內容佔65%寬度 */
+.page {
+  width: 65% !important;
 }
+
+/* 讓正文區塊置中 */
+.page__inner-wrap {
+  max-width: 1100px !important;  /* 原本約 600–700px */
+  margin: 0 auto !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
 
 /* Mobile: keep comfortable padding so text doesn't touch edges */
 @media (max-width: 900px) {
