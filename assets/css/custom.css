@@ -12,6 +12,11 @@
   padding-right: 2.5rem !important;
 }
 
+  /* 讓主內容佔滿寬度 */
+.page {
+  width: 60% !important;
+}
+
 /* Mobile: keep comfortable padding so text doesn't touch edges */
 @media (max-width: 900px) {
   .page__inner-wrap {
