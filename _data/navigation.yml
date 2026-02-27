@@ -5,5 +5,5 @@ main:
     url: /lab/
   - title: "Publications"
     url: /pub/
-  - title: "CV"
-    url: "https://www.dropbox.com/scl/fi/yrvwcsg4kbdkz7u/CV_CHIU.pdf?rlkey=07mmin3mvhve9s5bx2jyzq15v&dl=1"
+  #- title: "CV"
+  #  url: "https://www.dropbox.com/scl/fi/yrvwcsg4kbdkz7u/CV_CHIU.pdf?rlkey=07mmin3mvhve9s5bx2jyzq15v&dl=1"
