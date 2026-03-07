@@ -18,15 +18,21 @@ Dr. Chenhao Chiu is currently an Associate Professor at Graduate Institute of Li
 
 Dr. Chiu is a recipient of the NSTC Outstanding Young Scholars Program and has served as Associate Editor of *Journal of Phonetics* since 2025.
 
+
+
+### Affiliation
+* PI of the [Speech Behavior and Science Lab](https://sbslab.linguistics.ntu.edu.tw/) (**SBS**)
+* [Graduate Institute of Linguistics](https://linguistics.ntu.edu.tw/) (**GIL**), NTU
+* *Graduate Institute of Brain and Mind Sciences*, NTU
+* *Neurobiology and Cognitive Science Center* (NCSC), NTU
+ 
+
 ### Research Interests
 * **Articulatory Phonology**: Investigating the coordination of speech gestures.
 * **Motor Control**: Applying control theories to understand speech production.
 * **Quantification Methods**: Developing precise measurements for tongue and lip movement.
 
-### Professional Background
-I am currently an associate professor at the [Graduate Institute of Linguistics](https://linguistics.ntu.edu.tw/) (**GIL**), and the PI of the [Speech Behavior and Science Lab](https://sbslab.linguistics.ntu.edu.tw/) (**SBS**) at [National Taiwan University](https://www.ntu.edu.tw/) (**NTU**). I am also affiliated with the *Graduate Institute of Brain and Mind Sciences* and *Neurobiology and Cognitive Science Center* (NCSC) at NTU. 
-
-
+  
 ---
 
 ### 💡 Navigation
