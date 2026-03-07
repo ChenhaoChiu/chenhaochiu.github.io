@@ -23,7 +23,7 @@ Dr. Chiu is a recipient of the NSTC Outstanding Young Scholars Program and has s
 ### Affiliation
 * PI of the [Speech Behavior and Science Lab](https://sbslab.linguistics.ntu.edu.tw/) (**SBS**)
 * [Graduate Institute of Linguistics](https://linguistics.ntu.edu.tw/) (**GIL**), NTU
-* *Graduate Institute of Brain and Mind Sciences*, NTU
+* [Graduate Institute of Brain and Mind Sciences](https://www.mc.ntu.edu.tw/gibms/Index.action), NTU
 * *Neurobiology and Cognitive Science Center* (NCSC), NTU
  
 
