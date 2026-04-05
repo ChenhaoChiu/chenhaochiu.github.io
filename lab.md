@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "SBS lab"
+title: "Speech Behavior and Science Lab"
 permalink: /lab/
 author_profile: true
 ---
