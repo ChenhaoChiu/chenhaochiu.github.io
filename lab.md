@@ -5,9 +5,12 @@ permalink: /lab/
 author_profile: true
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-  <img src="/assets/images/UltrasoundExperiment2.jpg" style="width: 100%; max-width: 500px;">
-  <img src="/assets/images/ultrasound-optimized.gif" style="width: 100%; max-width: 500px;">
+<div style="display: flex; gap: 20px; margin: 30px 0;">
+  <img src="/assets/images/UltrasoundExperiment2.jpg" 
+       style="width: 50%; border-radius: 8px;">
+       
+  <img src="/assets/images/ultrasound-optimized.gif" 
+       style="width: 50%; border-radius: 8px;">
 </div>
 
 Speech Behavior and Science Lab（SBS Lab）隸屬於國立臺灣大學語言學研究所，致力於探討語音產製的生理基礎與動態機制，關注人類如何透過身體運動產生語音，並進一步連結語言結構與科技應用。
