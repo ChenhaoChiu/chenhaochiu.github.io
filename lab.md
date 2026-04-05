@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin: 30px 0;">
   <img src="/assets/images/UltrasoundExperiment2.jpg" 
-       style="width: 40%; border-radius: 8px;">
+       style="width: 50%; border-radius: 8px;">
        
   <img src="/assets/images/ultrasound-optimized.gif" 
        style="width: 50%; border-radius: 8px;">
