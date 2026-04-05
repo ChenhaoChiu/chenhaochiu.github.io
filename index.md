@@ -37,7 +37,7 @@ Dr. Chiu is a recipient of the NSTC Outstanding Young Scholars Program and has s
 
 ### 💡 Navigation
 <p align="center">
-  想要了解更多？歡迎查看我的 <a href="/pub/">研究著作 (Publications)</a> 或回到 <a href="/">首頁 (home)</a>。
+  想要了解更多？歡迎查看我的 <a href="/pub/">研究著作 (Publications)</a> 或回到 <a href="/">首頁 (Home)</a>。
 </p>
 
 
