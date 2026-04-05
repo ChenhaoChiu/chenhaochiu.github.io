@@ -33,7 +33,7 @@ Overall, SBS Lab aims to build an integrated framework for understanding speech,
 
 ### 💡 Navigation
 <p align="center">
-  想要了解更多？歡迎查看我的 <a href="/pub/">研究著作 (Publications)</a> 或回到 <a href="/">首頁</a>。
+  想要了解更多？歡迎查看我的 <a href="/pub/">研究著作 (Publications)</a> 或回到 <a href="/">首頁 (Home)</a>。
 </p>
 
 
