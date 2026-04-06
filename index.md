@@ -2,16 +2,10 @@
 layout: single
 title: ""
 permalink: /
-author_profile: false
+author_profile: true
+classes: wide
 ---
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
-
-  <div style="width: 250px; flex-shrink: 0;">
-    {% include sidebar.html %}
-  </div>
-
-  <div style="flex: 1; min-width: 0;" markdown="1">
 
 <img src="/assets/images/Profile_CHIU2.png" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border-radius: 10px;" onerror="this.style.display='none'">
 
@@ -47,6 +41,3 @@ Dr. Chiu is a recipient of the NSTC Outstanding Young Scholars Program and has s
 - [Publications](/pub/)
 - [CV](https://www.dropbox.com/scl/fi/yrvwcsg4kbdkz7u/CV_CHIU.pdf?rlkey=07mmin3mvhve9s5bx2jyzq15v&dl=1)
 
-  </div>
-
-</div>
