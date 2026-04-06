@@ -7,8 +7,6 @@ author_profile: true
 
 Here are my selected publications:
 
-_Journal papers_
-
 <p style="text-indent: -2em; margin-left: 2em; margin-bottom: 12px; font-size: 10pt; line-height: 1.5;">
 <strong>Chiu, C.</strong> (submitted) Visual identification of Taiwan Mandarin rounded vowels. <em>Journal of the Acoustical Society of America - Express Letters</em>.
 </p>
