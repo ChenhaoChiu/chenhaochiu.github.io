@@ -13,7 +13,7 @@ _Journal papers_
 
 Lai, C.-H., Tan, C.-C., Hung, D. S.-Y., **Chiu, C.**, Hsieh, M. H.-C., Chang, C.-C., and Tsai, S.-W. (submitted). The impact of tongue fatigue on speech production: sentence duration remains stable, but segmental durations and moments vary in healthy Mandarin learnersof English. _Journal of Speech, Language, and Hearing Research_.
 
-Huang, P.-H. and **Chiu, C.** (submitted). Production and perception of coarticulated tones: The cases of Taiwan Mandarin and Taiwan Southern Min. _Phonetica_.
+Huang, P.-H. and **Chiu, C.** (in revision). Production and perception of coarticulated tones: The cases of Taiwan Mandarin and Taiwan Southern Min. _Phonetica_.
 
 Lai, C.-H., **Chiu, C.**, Tsai, S.-W., Hung, D. S.-Y., Hsieh, M. H.-C., Lee, I.-P., and Tsai, T. (2025). An acoustic analysis of the nasal electrolarynx in healthy participants. _Speech Communication, 175_, 103315. DOI: https://doi.org/10.1016/j.specom.2025.103315. SCIE; Scopus
 
