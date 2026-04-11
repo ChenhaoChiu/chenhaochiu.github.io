@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 Welcome to the multimedia page of the Speech Behavior and Science Lab (SBS Lab).  
-This page features selected videos and curated media materials related to speech science, articulatory phonetics, ultrasound imaging, and research demonstrations.
+This page features selected videos, demonstrations, and media materials related to speech science, articulatory phonetics, ultrasound imaging, and research outreach.
 
 ---
 
-## Featured Research Video
+## Featured Video
 
 <div style="text-align: center; margin: 30px 0;">
   <iframe width="900" height="506"
@@ -26,10 +26,35 @@ This page features selected videos and curated media materials related to speech
 
 ## SBS Lab Playlist
 
+<div style="text-align:center; margin:30px 0;">
+
+<a href="https://www.youtube.com/playlist?list=PLpWBD1oD22WaFDoaGxd6WtVkJFODbnaSG"
+target="_blank"
+style="
+display:inline-block;
+padding:14px 24px;
+background:#cc0000;
+color:white;
+font-size:18px;
+font-weight:bold;
+border-radius:8px;
+text-decoration:none;
+">
+▶ View SBS Lab Playlist on YouTube
+</a>
+
+</div>
+
+---
+
+## More Videos
+
+### Speech Science Demo
+
 <div style="text-align: center; margin: 30px 0;">
-  <iframe width="900" height="506"
-    src="https://www.youtube.com/embed/videoseries?list=PLpWBD1oD22WaFDoaGxd6WtVkJFODbnaSG"
-    title="SBS Lab Playlist"
+  <iframe width="800" height="450"
+    src="https://www.youtube.com/embed/FnNQKYPE8tM"
+    title="Speech Science Demo"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
@@ -40,17 +65,13 @@ This page features selected videos and curated media materials related to speech
 
 ## About This Collection
 
-The videos on this page showcase selected research activities and media outputs from the SBS Lab. Topics include:
+The videos on this page showcase selected research activities and multimedia outputs from the Speech Behavior and Science Lab. Topics include:
 
-<!--
 - Ultrasound tongue imaging  
 - Speech articulation and motor control  
 - Experimental phonetics demonstrations  
-- Public outreach and research communication  
-- Multimedia documentation of ongoing projects
--->
-- Intro to the SBS lab.
-- Ultrasound in Linguistics Workshop 2021 @ NTU
+- Research communication and outreach  
+- Ongoing lab projects
 
 ---
 
