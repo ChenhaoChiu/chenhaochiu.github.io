@@ -5,12 +5,11 @@ permalink: /media/
 author_profile: true
 ---
 
-Welcome to the multimedia page of the Speech Behavior and Science Lab (SBS Lab).  
-This page features selected videos, demonstrations, and media materials related to speech science, articulatory phonetics, ultrasound imaging, and research outreach.
+This page features selected videos, demonstrations, and media materials related to the SBS Lab, speech science, articulatory phonetics, ultrasound imaging, and research outreach.
 
 ---
 
-## Featured Video
+## Welcome to SBS Lab!
 
 <div style="text-align: center; margin: 30px 0;">
   <iframe width="900" height="506"
@@ -24,7 +23,7 @@ This page features selected videos, demonstrations, and media materials related 
 
 ---
 
-## SBS Lab Playlist
+## Ultrasound in Linguistics Workshop 2021 @NTU
 
 <div style="text-align:center; margin:30px 0;">
 
