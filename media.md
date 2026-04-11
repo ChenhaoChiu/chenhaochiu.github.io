@@ -25,30 +25,19 @@ This page features selected videos, demonstrations, and media materials related 
 
 ## Ultrasound in Linguistics Workshop 2021 @NTU
 
-<div style="text-align:center; margin:30px 0;">
-
-<a href="https://www.youtube.com/playlist?list=PLpWBD1oD22WaFDoaGxd6WtVkJFODbnaSG"
-target="_blank"
-style="
-display:inline-block;
-padding:14px 24px;
-background:#cc0000;
-color:white;
-font-size:18px;
-font-weight:bold;
-border-radius:8px;
-text-decoration:none;
-">
-▶ View SBS Lab Playlist on YouTube
-</a>
-
+<div style="text-align: center; margin: 30px 0;">
+  <iframe width="800" height="450"
+    src="https://www.youtube.com/embed/FnNQKYPE8tM"
+    title="Speech Science Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
 </div>
 
 ---
 
 ## More Videos
-
-### Speech Science Demo
 
 <div style="text-align: center; margin: 30px 0;">
   <iframe width="800" height="450"
@@ -62,17 +51,7 @@ text-decoration:none;
 
 ---
 
-## About This Collection
 
-The videos on this page showcase selected research activities and multimedia outputs from the Speech Behavior and Science Lab. Topics include:
-
-- Ultrasound tongue imaging  
-- Speech articulation and motor control  
-- Experimental phonetics demonstrations  
-- Research communication and outreach  
-- Ongoing lab projects
-
----
 
 ## Visit Other Pages
 
