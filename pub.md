@@ -8,15 +8,15 @@ author_profile: true
 Here are my selected publications:
 
 <p style="text-indent: -2em; margin-left: 2em; margin-bottom: 12px; font-size: 10pt; line-height: 1.5;">
-<strong>Chiu, C.</strong> (2026). Vowel identification of Taiwan Mandarin rounded vowels. <em>Journal of the Acoustical Society of America – Express Letters, 6</em>(8), 085201. DOI: <a href="https://doi.org/10.1121/10.0044506">https://doi.org/10.1121/10.0044506</a>.
-</p>
-
-<p style="text-indent: -2em; margin-left: 2em; margin-bottom: 12px; font-size: 10pt; line-height: 1.5;">
 Lai, C.-H., Tan, C.-C., Hung, D. S.-Y., <strong>Chiu, C.</strong>, Hsieh, M. H.-C., Chang, C.-C., and Tsai, S.-W. (submitted). The impact of tongue fatigue on speech production: sentence duration remains stable, but segmental durations and moments vary in healthy Mandarin learners of English. <em>Journal of Speech, Language, and Hearing Research</em>.
 </p>
 
 <p style="text-indent: -2em; margin-left: 2em; margin-bottom: 12px; font-size: 10pt; line-height: 1.5;">
 Huang, P.-H. and <strong>Chiu, C.</strong> (resubmitted). Production and perception of coarticulated tones: The cases of Taiwan Mandarin and Taiwan Southern Min. <em>Phonetica</em>.
+</p>
+
+<p style="text-indent: -2em; margin-left: 2em; margin-bottom: 12px; font-size: 10pt; line-height: 1.5;">
+<strong>Chiu, C.</strong> (2026). Vowel identification of Taiwan Mandarin rounded vowels. <em>Journal of the Acoustical Society of America – Express Letters, 6</em>(8), 085201. DOI: <a href="https://doi.org/10.1121/10.0044506">https://doi.org/10.1121/10.0044506</a>. ESCI; A&amp;HCI
 </p>
 
 <p style="text-indent: -2em; margin-left: 2em; margin-bottom: 12px; font-size: 10pt; line-height: 1.5;">
