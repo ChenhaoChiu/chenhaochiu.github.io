@@ -8,7 +8,11 @@ author_profile: true
 Here are my selected publications:
 
 <p style="text-indent: -2em; margin-left: 2em; margin-bottom: 12px; font-size: 10pt; line-height: 1.5;">
-Lai, C.-H., Tan, C.-C., Hung, D. S.-Y., <strong>Chiu, C.</strong>, Hsieh, M. H.-C., Chang, C.-C., and Tsai, S.-W. (submitted). The impact of tongue fatigue on speech production: sentence duration remains stable, but segmental durations and moments vary in healthy Mandarin learners of English. <em>Journal of Speech, Language, and Hearing Research</em>.
+Liu, Y.-D., <strong>Chiu, C.</strong>, Chan, T., Islam, J., and Gick, B. (submitted). Coordinating orofacial posture and speech movements: The role of anticipatory postural adjustments. <em>Journal of the Acoustical Society of America – Express Letters</em>.
+</p>
+
+<p style="text-indent: -2em; margin-left: 2em; margin-bottom: 12px; font-size: 10pt; line-height: 1.5;">
+<strong>Chiu, C.</strong>, Huang, P.-H., and Huang, J. Z. (submitted). Multidimensional lip kinematics in Taiwan Mandarin high vowel production. <em>Speech Communication</em>.
 </p>
 
 <p style="text-indent: -2em; margin-left: 2em; margin-bottom: 12px; font-size: 10pt; line-height: 1.5;">
